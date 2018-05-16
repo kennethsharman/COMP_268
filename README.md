@@ -34,11 +34,11 @@ Students successfully completing this course will be able to:
 Outline
 The course consists of the following study guide units based on seven chapters of the textbook:
 
-Unit 0: Orientation
-Unit 1: The Mental Landscape
-Unit 2: Names and Things
-Unit 3: Control
-Unit 4: Subroutines
-Unit 5: Objects and Classes
-Unit 6: Introduction to GUI Programming
-Unit 7: Arrays
+  - Unit 0: Orientation
+  - Unit 1: The Mental Landscape
+  - Unit 2: Names and Things
+  - Unit 3: Control
+  - Unit 4: Subroutines
+  - Unit 5: Objects and Classes
+  - Unit 6: Introduction to GUI Programming
+  - Unit 7: Arrays
