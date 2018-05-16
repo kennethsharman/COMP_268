@@ -6,18 +6,13 @@ This was my first computer science course.
 Taken from course website http://www.athabascau.ca/syllabi/comp/comp268.php
 
 Overview
+
 COMP 268 builds on the concepts introduced in COMP 200 and/or COMP 210, and shows how to use various Java language constructs to develop 
 code and solve problems using a hands-on approach. That is, for each topic, students are expected to design, write, and analyze Java code
 corresponding to that topic.
 
 The course covers seven chapters from the textbook. Course material is a mix of text, video clips, discussion opportunities, and coding
-activities. While reading the text and coding in Java remain the main activities, students are also asked to reflect on their programming
-efforts as a way to increase their problem-solving and critical analysis skills.
-
-Each student will be assigned a tutor to consult; students are also welcome to consult with the course coordinator, if needed.
-
-Students should not skip studying any chapter, since concepts learned in one unit will play a role in understanding a higher-level concept 
-in following units.
+activities. While reading the text and coding in Java remain the main activities, students are also asked to reflect on their programming efforts as a way to increase their problem-solving and critical analysis skills.
 
 Learning Outcomes
 Students successfully completing this course will be able to:
